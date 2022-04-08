@@ -1,4 +1,0 @@
-GitHub OAuth Access Token
-
-Client secret 5cb55b667baaed7a3c79de6406f0942f5e2947b9
-Client Id:- 6e81bd6b97139edf9151
